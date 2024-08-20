@@ -58,14 +58,14 @@ header nav ul li {
 }
 
 header nav ul li a {
-    color: #ecf0f1; /* Light gray text */
+    color: white; /* Light gray text */
     text-decoration: none;
     font-size: 20px;
     transition: color 0.3s;
 }
 
 header nav ul li a:hover {
-    color: #ff6600; /* Accent color on hover */
+    color: #0078d4 !important;
 }
 
 #menu-toggle {
