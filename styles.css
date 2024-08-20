@@ -106,7 +106,7 @@ header nav ul li a:hover {
 
 .hero .cta-button {
     padding: 10px 20px;
-    background-color: #ff6600; /* Bright accent color for call-to-action */
+    background-color: #0035a0; /* Bright accent color for call-to-action */
     color: #fff; /* White text */
     text-decoration: none;
     font-size: 18px;
@@ -115,7 +115,7 @@ header nav ul li a:hover {
 }
 
 .hero .cta-button:hover {
-    background-color: #e65c00; /* Darker shade on hover */
+    background-color: #0078d4; /* Darker shade on hover */
 }
 
 /* Info section styles */
@@ -154,7 +154,7 @@ header nav ul li a:hover {
 
 .info .cta-button {
     padding: 10px 20px;
-    background-color: #ff6600; /* Bright accent color */
+    background-color: #0035a0; /* Bright accent color */
     color: #fff; /* White text */
     text-decoration: none;
     font-size: 18px;
@@ -163,7 +163,7 @@ header nav ul li a:hover {
 }
 
 .info .cta-button:hover {
-    background-color: #e65c00; /* Darker shade on hover */
+    background-color: #0078d4; /* Darker shade on hover */
 }
 
 /* Content section styles */
