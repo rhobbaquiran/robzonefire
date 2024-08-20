@@ -78,7 +78,7 @@ header nav ul li a:hover {
 
 /* Hero section styles */
 .hero {
-    background: url('https://img.freepik.com/free-vector/creative-computer-microchip-background_23-2148897320.jpg?size=626&ext=jpg&ga=GA1.1.1819120589.1723680000&semt=ais_hybrid.jpg') no-repeat center center/cover;
+    background: url('https://demo.bcmsolutions.com.vn/pareto/wp-content/uploads/2023/05/Frame-8647.png') no-repeat center center/cover;
     color: #fff; /* White text for high contrast */
     padding: 100px 0;
     text-align: center;
@@ -275,13 +275,16 @@ footer .container {
 }
 
 .contact .cta-button {
-    background-color: #242a5c;
-    color: white;
-    padding: 10px;
-    border: none;
-    cursor: pointer;
+    padding: 5px 10px;
+    background-color: #04AA6D; /* Bright accent color */
+    color: white; /* White text */
+    text-decoration: none;
+    font-size: 16px;
+    border-radius: 5px;
+    transition: background-color 0.3s;
 }
 
 .contact .cta-button:hover {
-    background-color: #1d1f3f;
+    color: white !important;
+    background-color: #006600 !important
 }
