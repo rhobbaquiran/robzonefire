@@ -2,6 +2,11 @@
 
 .logo {
     height: 20px; 
+    vertical-align: middle;
+    border-style: none;
+    box-sizing: border-box;
+    overflow-clip-margin: content-box;
+    overflow: clip;
 }
 
 header .container {
